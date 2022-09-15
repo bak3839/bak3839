@@ -28,3 +28,4 @@ Here are some ideas to get you started:
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bak3839)](https://solved.ac/bak3839/)
+  
